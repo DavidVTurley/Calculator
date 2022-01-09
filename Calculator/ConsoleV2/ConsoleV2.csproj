@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="SyntaxTree\" />
+    <Folder Include="Parser\" />
   </ItemGroup>
 
 </Project>
